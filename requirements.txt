@@ -1,0 +1,3 @@
+# requirements.txt
+# Works with Python 3.8+ (turtle comes preinstalled)
+pygame==2.5.2
