@@ -2,9 +2,9 @@
 
 A classic Pong game built using Python's `turtle` graphics.  
 This version includes:
-- 🎮 Single-player mode (AI controls the left paddle)
-- 🎲 Power-ups (Speed Boost, Shield, Mega Paddle)
-- 🏆 Score tracking and game-over screen
+- 🎮 Single-player mode (AI controls the left paddle).
+- 🎲 Power-ups (Speed Boost, Shield, Mega Paddle).
+- 🏆 Score tracking and game-over screen.
 
 ---
 
