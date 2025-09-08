@@ -12,9 +12,9 @@ This version includes:
 - Two paddles (right player controlled with `↑` and `↓` keys)
 - Left paddle controlled by an **AI opponent**
 - Randomly spawning **power-ups**:
-  - 🚀 Speed Boost → ball moves faster for 10 seconds
-  - 🛡️ Shield → temporary wall (2 turns)
-  - 📏 Mega Paddle → larger paddle for 4 turns
+  - 🚀 Speed Boost → ball moves faster for 10 seconds.
+  - 🛡️ Shield → temporary wall (2 turns).
+  - 📏 Mega Paddle → larger paddle for 4 turns.
 - Scoreboard and "Game Over" message when a player wins
 - Quit anytime by pressing **Q**
 
