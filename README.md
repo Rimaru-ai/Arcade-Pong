@@ -29,4 +29,4 @@ This version includes:
 
 🧑‍💻 Contributing
 
-Feel free to fork this repo, improve the game (new power-ups, better AI, sounds 🎶), and submit a pull request!
+Feel free to fork this repo, improve the game (new power-ups, better AI, sounds 🎶), and submit a pull request!!
